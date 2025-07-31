@@ -184,6 +184,16 @@ __pycache__/
 * [ ] Integrate voice input/output (speech-to-text and TTS)
 * [ ] Expand knowledge base to support more languages and documents
 
+## Team Members
+This project was developed by:
+
+Abdelrahman Hamada Yousef
+
+Yousef Reda Hassan
+
+Yousef Hazem
+
+Kadria Munir Ibrahim
 
 ## 📦 requirements.txt
 
